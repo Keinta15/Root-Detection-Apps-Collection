@@ -5,7 +5,7 @@
 - [Android Key Attestation Sample App](https://github.com/vvb2060/KeyAttestation/releases) (Bootloader)
 - [Checker](https://github.com/AkaneTan/Checker/releases) (ROM)
 - [Demo (to detect Zygote Injections)](https://github.com/JingMatrix/Demo)
-- Holmnes (add direct message link?)
+- Holmes (add direct message link?)
 - [Hunter](https://github.com/rushiranpise/detection/blob/main/Hunter_5.5.0.apk) (Root, ROM) (Needs Update)
 - [Memory Detector](https://github.com/rushiranpise/detection/blob/main/MemoryDetector_2.1.0.apk) (Root)
 - [Momo](https://t.me/magiskalpha/529) (Root, ROM)
