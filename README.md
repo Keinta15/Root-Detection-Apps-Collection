@@ -7,7 +7,7 @@
 - [Demo (to detect Zygote Injections)](https://github.com/JingMatrix/Demo)
 - [EnvChecks Demo](https://play.google.com/store/apps/details?id=com.dexprotector.detector.envchecks)
 - [Holmes](https://t.me/app_process64/26)
-- [Hunter](https://github.com/rushiranpise/detection/blob/main/Hunter_5.5.0.apk) (Root, ROM) (Needs Update)
+- [Hunter](https://github.com/Keinta15/detection/blob/main/Hunter-v6.0.6.apk) (Root, ROM)
 - [Memory Detector](https://github.com/rushiranpise/detection/blob/main/MemoryDetector_2.1.0.apk) (Root)
 - [Momo](https://t.me/magiskalpha/529) (Root, ROM)
 - [Native Detector](https://t.me/rootdetector/10)
