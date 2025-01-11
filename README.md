@@ -9,7 +9,7 @@
 - [Hunter](https://github.com/rushiranpise/detection/blob/main/Hunter_5.5.0.apk) (Root, ROM) (Needs Update)
 - [Memory Detector](https://github.com/rushiranpise/detection/blob/main/MemoryDetector_2.1.0.apk) (Root)
 - [Momo](https://t.me/magiskalpha/529) (Root, ROM)
-- [Native Detector](https://t.me/reveny1)
+- [Native Detector](https://t.me/rootdetector)
 - [Native Test](https://t.me/nullptr_dev) (Search on Channel) (add direct message link)
 - [Ruru](https://github.com/byxiaorun/Ruru/releases) (Root, XPosed)
 - [RootBeerFresh](https://github.com/KimChangYoun/rootbeerFresh/releases/tag/0.0.11)
