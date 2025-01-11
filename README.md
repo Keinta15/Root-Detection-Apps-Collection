@@ -5,7 +5,8 @@
 - [Android Key Attestation Sample App](https://github.com/vvb2060/KeyAttestation/releases) (Bootloader)
 - [Checker](https://github.com/AkaneTan/Checker/releases) (ROM)
 - [Demo (to detect Zygote Injections)](https://github.com/JingMatrix/Demo)
-- Holmes (add direct message link?)
+- [EnvChecks Demo](https://play.google.com/store/apps/details?id=com.dexprotector.detector.envchecks)
+- [Holmes](https://t.me/app_process64/26)
 - [Hunter](https://github.com/rushiranpise/detection/blob/main/Hunter_5.5.0.apk) (Root, ROM) (Needs Update)
 - [Memory Detector](https://github.com/rushiranpise/detection/blob/main/MemoryDetector_2.1.0.apk) (Root)
 - [Momo](https://t.me/magiskalpha/529) (Root, ROM)
@@ -14,8 +15,9 @@
 - [Ruru](https://github.com/byxiaorun/Ruru/releases) (Root, XPosed)
 - [RootBeerFresh](https://github.com/KimChangYoun/rootbeerFresh/releases/tag/0.0.11)
 - [Securify](https://github.com/RabahX/Securify/) (Root)
+- [TamJiGi](https://t.me/rormzhstjxm/110) (LSPosed trace Detector)
 - [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker) (Root, XPosed, Play Integrity, SafetyNet)
-- [Xposed Detector}(https://github.com/HuskyDG/XposedDetector)
+- [Xposed Detector](https://github.com/HuskyDG/XposedDetector)
 
 # Banking
 - [Blind](https://play.google.com/store/apps/details?id=com.teamblind.blind)
