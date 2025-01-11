@@ -2,7 +2,7 @@
   PR's are always welcomed!
 
 # Root / XPosed / ROM / Bootloader / SafteyNet / Play Integrity
-- [Android Key Attestation Sample App](https://github.com/vvb2060/KeyAttestation/releases) (Bootloader)
+- [Android Key Attestation Sample App](https://t.me/magiskalpha/667) (Bootloader)
 - [Checker](https://github.com/AkaneTan/Checker/releases) (ROM)
 - [Demo (to detect Zygote Injections)](https://github.com/JingMatrix/Demo)
 - [EnvChecks Demo](https://play.google.com/store/apps/details?id=com.dexprotector.detector.envchecks)
