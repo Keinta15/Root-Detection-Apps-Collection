@@ -10,8 +10,8 @@ PRs are always welcome!
 | [Demo (to detect Zygote Injections)](https://github.com/JingMatrix/Demo)               | Zygote Injection Detection              |
 | [EnvChecks Demo](https://play.google.com/store/apps/details?id=com.dexprotector.detector.envchecks) | Root                       |
 | [Holmes](https://t.me/app_process64/26)                                                | Root, ROM, Xposed, Bootloader           |
-| [Hunter](https://github.com/Keinta15/Root-Detection-Apps-Collection/blob/main/Hunter-v6.0.6.apk) | Root, ROM                     |
-| [Memory Detector](https://github.com/rushiranpise/detection/blob/main/MemoryDetector_2.1.0.apk) | Root                           |
+| [Hunter](https://raw.githubusercontent.com/Keinta15/Root-Detection-Apps-Collection/refs/heads/main/Hunter-v6.0.6.apk) | Root, ROM                     |
+| [Memory Detector](https://raw.githubusercontent.com/Keinta15/Root-Detection-Apps-Collection/refs/heads/main/MemoryDetector-2.1.0.apk) | Root                           |
 | [Momo](https://t.me/magiskalpha/529)                                                   | Root, ROM                               |
 | [Native Detector](https://t.me/rootdetector/10)                                       | Root, ROM, XPosed, Bootloader            |
 | [Native Test](https://t.me/nullptr_dev/110)                                           | Root, ROM, XPosed, Bootloader            |
